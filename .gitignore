@@ -1,5 +1,7 @@
 **/.ipynb_checkpoints/**
 __pycache__/
+*.pdf
+*.json
 
 # Trained models
 gpt2/
